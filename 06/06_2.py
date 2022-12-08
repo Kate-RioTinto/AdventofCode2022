@@ -5,7 +5,7 @@ for line in file_obj:
     line = line.strip('\n')
     chars = line
 i = 0
-print(chars)
+# print(chars)
 while i < len(chars)-14:
     block = chars[i:i+14]
     signal = True
@@ -17,4 +17,4 @@ while i < len(chars)-14:
         break
     else:
         i = i + 1
-    print(block)
+    # print(block)
