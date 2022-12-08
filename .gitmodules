@@ -1,4 +1,0 @@
-[submodule "kate-hutchinson"]
-	path = kate-hutchinson
-	url = https://github.com/Kate-RioTinto/AdventofCode2022.git
-	branch = master
